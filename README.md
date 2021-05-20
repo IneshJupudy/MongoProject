@@ -1,8 +1,5 @@
 # SpringBoot-MongoDB_CRUD_API
 
-Currently one left out point is the use of Exception Handlers :- (An excellent imporvement scope).
-
-
 Reason for Using MongoDB(NoSQL) over SQL :-
 
 
@@ -40,3 +37,5 @@ PostMan Collection :-
         ]
     }
 ]
+
+Currently one left out point is the use of Exception Handlers :- (An excellent imporvement scope).
